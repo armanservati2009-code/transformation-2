@@ -1,0 +1,5 @@
+{
+  "name": "GenQR - AI Powered Generator",
+  "description": "A versatile QR code generator with support for URLs, WiFi, VCards, and more. Features a built-in AI assistant to help you draft content or answer questions about QR technology.",
+  "requestFramePermissions": []
+}
